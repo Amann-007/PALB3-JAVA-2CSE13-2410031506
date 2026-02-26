@@ -27,3 +27,24 @@ WEEK-1 QUESTION-9
 
 WEEK-1 QUESTION-10
 ![output]!<img width="1470" height="956" alt="Screenshot 2026-02-12 at 10 33 54 PM" src="https://github.com/user-attachments/assets/f5ef2669-d3ef-4c9e-8266-cd57c0850019" />
+
+WEEK-2 QUESTION-1
+![output]!
+WEEK-2 QUESTION-2
+![output]!
+WEEK-2 QUESTION-3
+![output]!
+WEEK-2 QUESTION-4
+![output]!
+WEEK-2 QUESTION-5
+![output]!
+WEEK-2 QUESTION-6
+![output]!<img width="1470" height="956" alt="Screenshot 2026-02-27 at 1 11 53 AM" src="https://github.com/user-attachments/assets/5b06109c-5798-46f7-a3ca-f0bb3bd7dd7e" />
+WEEK-2 QUESTION-7
+![output]!<img width="1470" height="956" alt="Screenshot 2026-02-27 at 1 11 14 AM" src="https://github.com/user-attachments/assets/7412b426-63ca-430b-bf65-71bfe61ff7da" />
+WEEK-2 QUESTION-8
+![output]!<img width="1470" height="956" alt="Screenshot 2026-02-27 at 1 10 40 AM" src="https://github.com/user-attachments/assets/5921fbd6-6523-4ead-a705-2e35d0a7bfc3" />
+WEEK-2 QUESTION-9
+![output]!<img width="1470" height="956" alt="Screenshot 2026-02-27 at 1 09 38 AM" src="https://github.com/user-attachments/assets/cc1e1317-9c04-4ef3-a2b7-2be33709589b" />
+WEEK-2 QUESTION-10
+![output]!<img width="1470" height="956" alt="Screenshot 2026-02-27 at 1 07 03 AM" src="https://github.com/user-attachments/assets/a90e15ad-204c-4f7b-b1f0-dc896fe4920f" />
